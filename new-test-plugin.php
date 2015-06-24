@@ -2,7 +2,8 @@
 /*
 	Plugin Name: AAA Client Communication
 	Description: A way to communicate to client
-	Version: 1.0.0
+	Author: Bob Bob
+	Version: 2.0.0
 	GitHub Plugin URI: https://github.com/wpstudio/client-comm-plugin
 */
 
